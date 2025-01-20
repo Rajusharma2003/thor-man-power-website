@@ -17,8 +17,8 @@
 
 .back-to-top {
     position: fixed;
-    right: 30px;
-    bottom: 30px;
+    right: 25px;
+    bottom: 90px;
     transition: 0.5s;
     z-index: 99;
 }
@@ -189,7 +189,7 @@
         left: 0;
         border-top: 0;
         border-right: 0;
-        border-bottom: 1px solid;
+        border-bottom: 0px solid;
         border-left: 0;
         border-style: dotted;
         z-index: 999;
@@ -903,7 +903,7 @@
 /*** copyright end ***/
 
 
-* This is the whatsapp section */
+/* This is the whatsapp section */
 /* whatsapp */
 .whatsapp {
     position: fixed;
